@@ -43,3 +43,6 @@ int main()
 
 	return 0;
 }
+
+// 手绘设计模式
+// https://github.com/gdhucoder/DesignPattern
